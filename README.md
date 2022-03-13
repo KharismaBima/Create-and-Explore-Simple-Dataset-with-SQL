@@ -134,7 +134,7 @@ The sophomores have been involved in a battles **five** times during season 1, a
 3. Let's Merge firstname and lastname column as new studentname column in Tokyo_student table.
 4. Counting how many times Yuuji involved in a battle during season 1 using JOIN function, and subquery.
 5. Finding the students who doesn't have any battle (or appearance) in season 1.
-6. Wait, who is Zoro? hes'not one of Jujutsu HS student. Get rid of him from the data using DELETE function!
+6. Wait, who is Zoro? he's not one of Jujutsu HS student. Get rid of him from the data using DELETE function!
 
 ### The queries and the results are available in this repository. Cheers!
 
