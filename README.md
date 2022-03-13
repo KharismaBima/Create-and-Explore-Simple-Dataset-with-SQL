@@ -1,4 +1,4 @@
-# Create and Explore Simple Dataset With SQL
+# Create and Explore Simple Dataset with SQL
 
 As the basis of relational database, SQL has so many commands. In the previous <a href="https://github.com/KharismaBima/CFPB-Complaints-Data-Exploration-with-SQL">project</a>, I've shown how I use some of the commands like DQL, Aggregate Functions, and Converting Data Types during data exploration process.
 So this time I'll practice more SQL commands, and going through some little challenges. Because well.. If it less challenging it'll be bored right? and also at least I can explore my own dataset that I've created.
