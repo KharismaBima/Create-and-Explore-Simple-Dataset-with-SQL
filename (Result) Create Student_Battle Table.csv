@@ -1,0 +1,30 @@
+battle_id,battle_event,id,opponent,battle_status
+1,Sugisawa HS Arc,108,Cursed Spirit,Opponent Annihiliated
+1,Sugisawa HS Arc,107,Cursed Spirit,Opponent Annihiliated
+2,Roppongi Building Arc,108,Cursed Spirit,Opponent Annihiliated
+2,Roppongi Building Arc,109,Cursed Spirit,Opponent Annihiliated
+3,Eishu Juvenile Arc,108,Finger Bearer,Opponent Annihiliated
+3,Eishu Juvenile Arc,109,Cursed Spirit,Opponent Annihiliated
+3,Eishu Juvenile Arc,107,Cursed Spirit,Opponent Annihiliated
+3,Eishu Juvenile Arc,107,Sukuna,Yuuji Killed by Sukuna
+4,Kyoto Student Visit,107,Aoi Todo,Stopped by Toge and Panda
+4,Kyoto Student Visit,109,Mai Zenin,Stopped by Todo
+5,Kinema Theater Arc,108,Transfigured Human,Opponent Annihiliated
+5,Kinema Theater Arc,108,Mahito,Opponent Escaped
+5,Kinema Theater Arc,108,Junpei Yoshino,Opponent Annihiliated
+6,Kyoto Goodwill Event Arc,108,Aoi Todo,Interupted by Hanami
+6,Kyoto Goodwill Event Arc,104,Mechamaru,Panda win
+6,Kyoto Goodwill Event Arc,106,Kasumi Miwa,Maki Win
+6,Kyoto Goodwill Event Arc,109,Momo Nishimiya,Nobara Lost (Momo helped by Mai)
+6,Kyoto Goodwill Event Arc,106,Mai Zenin,Maki Win
+6,Kyoto Goodwill Event Arc,107,Noritoshi Kamo,Interupted by Hanami
+6,Kyoto Goodwill Event Arc,107,Hanami,Yuji and Todo take over the Battle
+6,Kyoto Goodwill Event Arc,106,Hanami,Yuji and Todo take over the Battle
+6,Kyoto Goodwill Event Arc,105,Hanami,Yuji and Todo take over the Battle
+6,Kyoto Goodwill Event Arc,84,Hanami,Yuji and Todo take over the Battle
+6,Kyoto Goodwill Event Arc,108,Hanami,Opponent Annihiliated (by Gojo)
+6,Kyoto Goodwill Event Arc,86,Hanami,Opponent Annihiliated (by Gojo)
+7,Yasohachi Bridge Arc,107,Cursed Spirit,Opponent Annihiliated
+7,Yasohachi Bridge Arc,107,Finger Bearer,Opponent Annihiliated
+7,Yasohachi Bridge Arc,108,Eso,Opponent Annihiliated
+7,Yasohachi Bridge Arc,109,Kechizu,Opponent Annihiliated
